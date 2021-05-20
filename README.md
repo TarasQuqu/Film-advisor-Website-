@@ -2,6 +2,8 @@
 Dynamic Website with account system,admin panel using PHP and MySQL databases(interaction with the database via PDO).Technologies Bootstrap,CSS,JavaScript,AJAX,PHP &amp; MySql.
 
 Tasks done:
+Account system
+
 Admin panel:Add,Delete movie;
 
 PHP Sessions &amp; Cookies
