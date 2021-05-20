@@ -1,0 +1,30 @@
+body{
+	height:100%;
+	width: 100%;
+}
+.a_signin_img{
+	background-image: url('../images/a_signin.jpg');
+	background-size: 100%;
+}
+.signin_img{
+	background-image: url('../images/signin.jpg');
+	background-size: 100%;
+}
+.movies_title_img{
+	background-image: url('/images/signin.jpg');
+	width: 400px;
+	height: 300px;
+}
+.mov_img{
+	background-image: url('/images/1.jpg');
+	background-size: 100%;
+}
+.main_img{
+	background-image: url('/images/Main.jpg');
+	background-size: 100%;
+}
+.movie_bg2{
+	background-image: url('/images/bg.jpg');
+	background-size: 100%;
+}
+
